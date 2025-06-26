@@ -32,13 +32,17 @@ class ATM {
 
         if (option == 1){
             CheckBalance();
-        } else if (option == 2){
+        }
+        else if (option == 2){
             WithdrawMoney();
-        } else if (option == 3) {
+        }
+        else if (option == 3) {
             DepositMoney();
-        } else if (option == 4) {
+        }
+        else if (option == 4) {
             return;
-        } else {
+        }
+        else {
             System.out.println("Enter a valid choice");
         }
     }
