@@ -2,7 +2,7 @@ package Project;
 
 import java.util.Scanner;
 
-public class Project1 {
+public class ExpenceTracker {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
