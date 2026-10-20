@@ -1,3 +1,5 @@
+package ExpenceTracker;
+
 import java.util.Scanner;
 
 public class ExpenceTracker {
